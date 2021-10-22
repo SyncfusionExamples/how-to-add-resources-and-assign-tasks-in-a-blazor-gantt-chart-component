@@ -5,6 +5,7 @@ The [Blazor Gantt Chart](https://www.syncfusion.com/blazor-components/blazor-gan
 In this quick-start project, you can learn how to add resources and assign tasks to a Syncfusion Blazor Gantt Chart in a Blazor WebAssembly app. You will learn how to add resource data to the datasource and bind the resource data to the Gantt Chart. Also, you can learn how to add and edit the resource collection in the Gantt Chart.
 
 Watch the video: Coming soon...
+Documentation: https://blazor.syncfusion.com/documentation/gantt-chart/resources
 
 ## Project prerequisites
 Make sure you have a compatible version of .NET Core on your machine before starting to work on this project. You also need the following:
